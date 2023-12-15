@@ -1,4 +1,4 @@
-# Homicide-Reports-with-Plotly
+# Homicide-Reports-with-Plotly https://www.kaggle.com/datasets/murderaccountability/homicide-reports
 Data Visualization with Python
 Section 2
 The data set ‘Homicide Reports’ is a comprehensive data base of homicide cases in the United States between 1980 to 2014. This database consists over 600,000 records. Which includes attributes of crimes committed by perpetrators and the victims with their race, ethnicity, age and sex. In addition, it includes the relationship and type of weapon used between the victim and perpetrator. 
